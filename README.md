@@ -33,4 +33,4 @@ IMPORTANT NOTES:
 ```   
 
 ## Thanks to 
-@fvcdaniel for the tips and par programming. :D
+![@fvcdaniel](https://github.com/fvcdaniel) for the tips and par programming. :D
